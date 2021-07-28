@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @VinciGit00
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning enginering
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: I don't know
 
 <!---

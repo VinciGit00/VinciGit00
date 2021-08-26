@@ -2,19 +2,11 @@
 
 Software Engineer graduated in in the master’s course of Computer Science Engineering at the University of Bergamo.
 
-<p align='center'><img width=500 align='center' src="https://github.com/samuelexferri/samuelexferri/raw/master/images/eyes.png"></p>
-
 ### About me
 
-:compass: [samuelexferri.com](https://www.samuelexferri.com)
-
-:email: [samuelexferri@gmail.com](mailto:samuelexferri@gmail.com)
-
-:telephone_receiver: Private
+:email: [mvincig11@gmail.com](mailto:mvincig11@gmail.com)
 
 :round_pushpin:   Bergamo, Italy
-
-:key: GPG Fingerprint: _CD13 9D76 003F 5A04 A43F 7D10 EBB3 DDAA EE1E 4362_ ([Download](https://samuelexferri.com/CD139D76003F5A04A43F7D10EBB3DDAAEE1E4362.asc))
 
 ### Stats
 
@@ -51,27 +43,7 @@ Friday       78 commits     ██░░░░░░░░░░░░░░░�
 Saturday     80 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.06% 
 Sunday       75 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.43%
 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Europe/Rome
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
+``````
 
 **I Mostly Code in Java** 
 
@@ -87,8 +59,4 @@ Dart                     1 repo              █░░░░░░░░░░�
 
 **Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/samuelexferri/samuelexferri/master/charts/bar_graph.png) 
-
-
- Last Updated on 26/08/2021
 <!--END_SECTION:waka-->

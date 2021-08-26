@@ -1,6 +1,6 @@
 Hi there, I'm Marco Vinciguerra - aka Vinci 👋
 
-I'm an engineering Student who wants too work in the Silicon Valley!
+I'm an engineering Student who wants to work in the Silicon Valley!
 
 🔭 I’m currently working on a my bachelor thesis!
 

@@ -1,10 +1,10 @@
-### Hello I'm Samuele Ferri! 👋
+### Hello I'm Marco Vinciguerra 👋
 
 Software Engineer graduated in in the master’s course of Computer Science Engineering at the University of Bergamo.
 
 ### About me
 
-:email: [mvincig11@gmail.com](mailto:mvincig11@gmail.com)
+:email: [ mvincig11@gmail.com](mailto:mvincig11@gmail.com)
 
 :round_pushpin:   Bergamo, Italy
 

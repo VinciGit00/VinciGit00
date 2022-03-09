@@ -4,7 +4,7 @@ I'm an engineering Student who wants to work in the Silicon Valley!
 
 🔭 I’m currently working on a my bachelor thesis!
 
-🌱 I’m currently learning Math and Machine Learning
+🌱 I’m currently learning, Flutter Math and Machine Learning
 
 🥅 2022 Goals: Became a better developer and learning flutter
 

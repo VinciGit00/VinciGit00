@@ -14,12 +14,22 @@ I am a 22 year old boy and engineering student whose dream is to work in a big t
 
 ---
 
+<table>
+<tr>
+<th> Good </th>
+<th> Bad </th>
+</tr>
+<tr>
+<td>
 ![Marco's GitHub stats](https://github-readme-stats.vercel.app/api?username=VinciGit00&theme=onedark&show_icons=true)
-
+</td>
+<td>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VinciGit00&theme=onedark)](https://github.com/VinciGit00/github-readme-stats)
-
+</td>
+</tr>
+</table>
 ---
-
+## Tools and coding languages that I use
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;

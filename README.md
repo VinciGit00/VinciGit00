@@ -20,12 +20,11 @@ I am a 22 year old boy and engineering student whose dream is to work in a big t
     <td><b style="font-size:30px">Title 2</b></td>
  </tr>
  <tr>
-    <td>Lorem ipsum ...</td>
+    <td>![Marco's GitHub stats](https://github-readme-stats.vercel.app/api?username=VinciGit00&theme=onedark&show_icons=true)</td>
     <td>Lorem ipsum ...</td>
  </tr>
 </table>
 
-![Marco's GitHub stats](https://github-readme-stats.vercel.app/api?username=VinciGit00&theme=onedark&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VinciGit00&theme=onedark)](https://github.com/VinciGit00/github-readme-stats)
 

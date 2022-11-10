@@ -13,21 +13,22 @@ I am a 22 year old boy and engineering student whose dream is to work in a big t
 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Marco-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/marco-vinciguerra-7ba365242/)
 
 ---
-
-<table>
-<tr>
-<th> Good </th>
-<th> Bad </th>
-</tr>
-<tr>
-<td>
-![Marco's GitHub stats](https://github-readme-stats.vercel.app/api?username=VinciGit00&theme=onedark&show_icons=true)
-</td>
-<td>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VinciGit00&theme=onedark)](https://github.com/VinciGit00/github-readme-stats)
-</td>
-</tr>
+<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+<table border="0">
+ <tr>
+    <td><b style="font-size:30px">Title</b></td>
+    <td><b style="font-size:30px">Title 2</b></td>
+ </tr>
+ <tr>
+    <td>Lorem ipsum ...</td>
+    <td>Lorem ipsum ...</td>
+ </tr>
 </table>
+
+![Marco's GitHub stats](https://github-readme-stats.vercel.app/api?username=VinciGit00&theme=onedark&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VinciGit00&theme=onedark)](https://github.com/VinciGit00/github-readme-stats)
+
 ---
 ## Tools and coding languages that I use
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;

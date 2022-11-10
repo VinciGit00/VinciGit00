@@ -13,20 +13,8 @@ I am a 22 year old boy and engineering student whose dream is to work in a big t
 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Marco-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/marco-vinciguerra-7ba365242/)
 
 ---
-<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
-<table border="0">
- <tr>
-    <td><b style="font-size:30px">Title</b></td>
-    <td><b style="font-size:30px">Title 2</b></td>
- </tr>
- <tr>
-    <td>![Marco's GitHub stats](https://github-readme-stats.vercel.app/api?username=VinciGit00&theme=onedark&show_icons=true)</td>
-    <td>Lorem ipsum ...</td>
- </tr>
-</table>
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VinciGit00&theme=onedark)](https://github.com/VinciGit00/github-readme-stats)
+![Marco's GitHub stats](https://github-readme-stats.vercel.app/api?username=VinciGit00&theme=onedark&show_icons=true)
 
 ---
 ## Tools and coding languages that I use

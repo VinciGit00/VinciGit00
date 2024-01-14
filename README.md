@@ -16,7 +16,7 @@ I am a 23 year old boy and engineering student whose dream is to work in a big t
 
 ![Marco's GitHub stats](https://github-readme-stats.vercel.app/api?username=VinciGit00&theme=onedark&show_icons=true)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VinciGit00&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VinciGit00&theme=github_dark)
 
 ---
 ## Tools and coding languages that I use

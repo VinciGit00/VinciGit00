@@ -15,7 +15,7 @@ I am a 23 year old boy and engineering student whose dream is to work in a big t
 ---
 
 
-![Marco's GitHub stats](https://github-readme-stats.vercel.app/api?username=hafiz-muhammad&show_icons=true&theme=nord&hide_border=true&include_all_commits=true&count_private=true)
+![Marco's GitHub stats](https://github-readme-stats.vercel.app/api?username=VinciGit00d&show_icons=true&theme=nord&hide_border=true&include_all_commits=true&count_private=true&theme=github_dark)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VinciGit00&theme=github_dark)
 

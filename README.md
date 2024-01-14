@@ -16,6 +16,8 @@ I am a 23 year old boy and engineering student whose dream is to work in a big t
 
 ![Marco's GitHub stats](https://github-readme-stats.vercel.app/api?username=VinciGit00&theme=onedark&show_icons=true)
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AyxanShahbazov&theme=github_dark)
+
 ---
 ## Tools and coding languages that I use
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;

@@ -6,7 +6,7 @@ I am a 23 year old boy and engineering student whose dream is to work in a big t
 
 🌱 I’m currently learning, Flutter, Math and Machine Learning
 
-🥅 2023 Goals: Became a better developer and learning machine learning
+🥅 2024 Goals: Became a better developer and learning machine learning
 
 ⚡ Fun fact: I love reading books and my favourite IDE is VIM.
 

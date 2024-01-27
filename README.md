@@ -8,7 +8,7 @@ I am a 23 year old boy and engineering student whose dream is to work in a big t
 
 🥅 2024 Goals: Became a better developer and learning machine learning
 
-⚡ Fun fact: I love reading books and my favourite IDE is VIM.
+⚡ Fun fact: I love reading books and my favourite IDE is Neovim.
 
 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Marco-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/marco-vinciguerra-7ba365242/)
 

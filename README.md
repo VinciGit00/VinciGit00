@@ -2,7 +2,7 @@ Hi there, I'm Marco Vinciguerra - aka Vinci 👋
  
 I am a 23 year old boy and engineering student whose dream is to work in a big tech like Google. Every day I work hard to make it happen 💪🏻
 
-🔭 I’m currently studing data science and data engineering
+🔭 I’m currently studing data science and data engineering master's degree course
 
 🌱 I’m currently learning, Flutter, Math and Machine Learning
 

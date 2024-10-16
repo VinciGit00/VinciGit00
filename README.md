@@ -1,6 +1,6 @@
 Hi there, I'm Marco Vinciguerra - aka Vinci 👋
  
-I am a 24 year old boy and engineering student whose dream is to make concrete ScrapegraphAI. Every day I work hard to make it happen 💪🏻
+I am a 24 years old guy whose dream is to make concrete ScrapegraphAI. Every day I work hard to make it happen 💪🏻
 
 I am currently working on [Scrapegraph-ai](https://github.com/VinciGit00/Scrapegraph-ai).
 

@@ -8,7 +8,7 @@ I am currently working on [Scrapegraph-ai](https://scrapegraphai.com).
 
 🌱 I’m currently learning, Flutter, Math and Machine Learning
 
-🥅 2024 Goals: Became a better developer and a better person
+🥅 2025 Goals: Became a better developer and a better person
 
 ⚡ Fun fact: I love reading books and my favourite IDE is Neovim.
 

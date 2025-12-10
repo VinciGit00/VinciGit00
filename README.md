@@ -16,9 +16,6 @@ I am currently working on [ScrapeGraphAI](https://scrapegraphai.com).
 
 ---
 
-
-![Marco's GitHub stats](https://github-readme-stats.vercel.app/api?username=VinciGit00&show_icons=true&theme=nord&hide_border=true&include_all_commits=true&count_private=true)
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VinciGit00&theme=nord_dark)
 
 ---

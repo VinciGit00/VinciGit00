@@ -4,8 +4,6 @@ I am a 25 years old guy whose dream is to make concrete ScrapegraphAI. Every day
 
 I am currently working on [ScrapeGraphAI](https://scrapegraphai.com).
 
-🔭 I’m currently studing data science and data engineering master's degree course
-
 🌱 I’m currently learning, Flutter, Math and Machine Learning
 
 🥅 2026 Goals: Became a better developer and a better person

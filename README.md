@@ -2,8 +2,6 @@ Hi there, I'm Marco Vinciguerra - aka Vinci 👋
 
 I am a 26 years old guy whose dream is to make concrete ScrapegraphAI. Every day I work hard to make it happen 💪🏻
 
-I am currently working on [ScrapeGraphAI](https://scrapegraphai.com).
-
 🌱 I'm currently learning, Flutter, Math and Machine Learning
 
 🥅 2026 Goals: Became a better developer and a better person
@@ -25,11 +23,5 @@ I am currently working on [ScrapeGraphAI](https://scrapegraphai.com).
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original-wordmark.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40" height="40"/> | <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40" height="40"/> | <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="40" height="40"/> | <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/> |
 
 ---
-
-## Organizations
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ScrapeGraphAI/Scrapegraph-ai/main/docs/assets/scrapegraphai_logo.png" alt="ScrapeGraphAI Hero" width="15%">
-</p>
 
 YOLO
